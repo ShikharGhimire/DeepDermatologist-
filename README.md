@@ -1,5 +1,5 @@
 # DeepDermatologist-
-Using transfer learning and the architecture of Densenet 121 model, deep learning algorithms classification and detection of different skin lesions including skin cancer. 
+Using transfer learning and the architecture of Densenet 201 model, deep learning algorithms classification and detection of different skin lesions including skin cancer. 
 
 -Original images were augmented to increase the dataset values
 
